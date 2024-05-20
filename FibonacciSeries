@@ -16,5 +16,6 @@ public class FibonacciSeries {
             n2 = n3;    
         }    
         scanner.close();
+//netttt
     }    
 }
